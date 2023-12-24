@@ -1,4 +1,11 @@
 venv/
+-ipynb_checkpoints/
+
+*.json
+*.csv
+*.pkl
+
+
 
 
 prueba-1547046906753-2b9663fe8775.json

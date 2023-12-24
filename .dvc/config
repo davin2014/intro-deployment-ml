@@ -1,0 +1,6 @@
+[core]
+    autostage = true
+['remote "dataset-track"']
+    url = gs://model-dataset-tracker-a/dataset
+['remote "model-tracker"']
+    url = gs://model-dataset-tracker-a/model

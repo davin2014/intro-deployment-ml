@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\cursos\intro-deployment-ml\prueba-1547046906753-2b9663fe8775.json"
